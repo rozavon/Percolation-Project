@@ -1,7 +1,7 @@
 # Percolation-Project
 In a system of rectangular/square NxN  grid cells or sites.
-  All sites start as blocked
-  When a site is chosen at random it is open
+  All sites start as blocked.
+  When a site is chosen at random it is open.
   Open sites connected to the top row are full.
   A system in which there's a full cell in the bottom row (and thus a path of full cells from top to bottom) percolates.
   
